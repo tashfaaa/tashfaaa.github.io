@@ -6,7 +6,7 @@ comments: true
 author: Tashfa Zafar
 ---
 
-This assignment required us to write code that would turn on a random color on an RGB LED while the button is pressed. Each time the button is pressed, a new color lights up and. The LED turns off when the button is released.
+This assignment required us to write code that would turn on a random color on an RGB LED while the button is pressed. Each time the button is pressed, a new color lights up, and the LED turns off when the button is released.
 
 **A couple of my colors:**
 
