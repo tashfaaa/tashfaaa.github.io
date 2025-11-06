@@ -11,4 +11,4 @@ For this assignment, I created a program that plays morse code on the Arduino bu
 ![arduino help photo](https://tashfaaa.github.io/assets/img/help.jpg)
 
 {: .box-note}
-**Tip:** It might be a good idea to start testing your code with a set of LEDs instead of the buzzer. Your ears would be grateful.
+**Tip:** It might be a good idea to start testing your code with a set of LEDs instead of the buzzer. Your ears will be grateful.
