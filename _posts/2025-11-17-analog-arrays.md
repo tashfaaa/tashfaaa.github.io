@@ -9,6 +9,7 @@ author: Tashfa Zafar
 This assignment involved creating a program that randomly controls LEDs connected to PWM pins on our arduino. Every second, the program picks one PWM pin from a list stored in an array. If the selected pin is currently on, the program turns it off; if it’s off, it turns on with a random brightness. A second array keeps track of each pin’s on/off state so the program knows whether to turn a pin on or off when it’s chosen. 
 
 Here's photo of my program in action:
+
 ![three sets of leds on](https://tashfaaa.github.io/assets/img/arrays.jpg)
 
 {: .box-note}
