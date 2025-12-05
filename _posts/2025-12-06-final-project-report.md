@@ -10,11 +10,11 @@ Project title, description, motivation
 
 Here's a comprehensive technical explanation of the project:
 
-##Inputs:
+## Inputs:
 Light Sensor (analog) - measures ambient light in the tote’s environment.
 Switch (digital) - starts/stops official reading session.
 
-##Outputs:
+## Outputs:
 
 **RGB LED** - displays environment comfort:
 1) ORANGE - optimal reading conditions (sufficient light)
@@ -25,7 +25,7 @@ Switch (digital) - starts/stops official reading session.
 2nd LED - turns on 5s into reading, stays on
 3rd LED - turns on 10s into reading, all three milestone LEDs blink briefly (for 2s thrice to celebrate milestone completion, then timer resets, starting the cycle again
 
-Comprehensive materials list
+### Comprehensive materials list
 - 1 LilyPad Arduino, including on-board RGB LED
 - 1 LilyPad Light Sensor
 - 3 Pink LEDs
