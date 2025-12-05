@@ -18,7 +18,7 @@ Switch (digital) - starts/stops official reading session.
 
 **RGB LED** - displays environment comfort:
 1) ORANGE - optimal reading conditions (sufficient light)
-2) PURPLE - dim light
+2) 2) PURPLE - dim light
 
 **OTHER LEDs** - milestone indicators for a reading session:
 1st LED - turns on 1s into reading, stays on
