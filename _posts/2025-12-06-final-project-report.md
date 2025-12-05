@@ -6,8 +6,27 @@ comments: true
 author: Tashfa Zafar
 ---
 
-
 Project title, description, motivation
+
+Here's a comprehensive technical explanation of the project:
+
+**Inputs:**
+Light Sensor (analog) - measures ambient light in the tote’s environment.
+Switch (digital) - starts/stops official reading session.
+
+**Outputs:**
+
+RGB LED - displays environment comfort:
+1) ORANGE - optimal reading conditions (sufficient light)
+2) PURPLE - dim light
+
+OTHER LEDs - milestone indicators for a reading session:
+1st LED - turns on 30s into reading, stays on
+2nd LED - turns on 5min into reading, stays on
+3rd LED - turns on 10min into reading, resets sequence
+
+Potential additional part: 
+Blinking effect at 10 minutes - all three milestone LEDs blink briefly to celebrate milestone completion, then timer resets, starting the cycle again (first LED 30 seconds into new session).
 
 Comprehensive materials list
 - 1 LilyPad Arduino, including on-board RGB LED
