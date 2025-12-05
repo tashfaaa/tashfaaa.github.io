@@ -1,7 +1,7 @@
---- 
+---
 layout: post
 title: Final Project Report
-tags: [programming] [arduino]
+tags: [programming]
 comments: true
 author: Tashfa Zafar
 ---
