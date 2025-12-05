@@ -39,7 +39,7 @@ Switch (digital) - starts/stops official reading session.
 
 ## Revised Paper Prototype
 Screenshot of your revised paper prototype of your project
-![updated paper prototype](https://tashfaaa.github.io/assets/img/circuit.png)
+![updated paper prototype](https://tashfaaa.github.io/assets/img/finalestpaperprototype.png)
 
 ## Alligator Prototype
 1 Photo of your alligator prototype working
