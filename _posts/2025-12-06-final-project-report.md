@@ -18,12 +18,12 @@ Switch (digital) - starts/stops official reading session.
 
 **RGB LED** - displays environment comfort:
 1) ORANGE - optimal reading conditions (sufficient light)
-2) 2) PURPLE - dim light
+2) PURPLE - dim light
 
 **OTHER LEDs** - milestone indicators for a reading session:
-1st LED - turns on 1s into reading, stays on
-2nd LED - turns on 5s into reading, stays on
-3rd LED - turns on 10s into reading, all three milestone LEDs blink briefly (for 2s thrice to celebrate milestone completion, then timer resets, starting the cycle again
+- 1st LED - turns on 1s into reading, stays on
+- 2nd LED - turns on 5s into reading, stays on
+- 3rd LED - turns on 10s into reading, all three milestone LEDs blink briefly (for 2s thrice to celebrate milestone completion, then timer resets, starting the cycle again
 
 ## Comprehensive materials list
 - 1 LilyPad Arduino, including on-board RGB LED
