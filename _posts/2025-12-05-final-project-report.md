@@ -44,7 +44,9 @@ Here's a comprehensive technical explanation of the project:
 - Small pieces of felt for insulation (left over from plushy project)
 
 ## Revised Paper Prototype
-Screenshot of your revised paper prototype of your project
+
+After getting feedback on my original circuit, I made some edits, e.g. giving the switch it's own pin to make it possible to read whether it's on or off and shape LED behaviors accordingly.
+
 ![updated paper prototype](https://tashfaaa.github.io/assets/img/finalestpaperprototype.png)
 
 ## Alligator Prototypes
