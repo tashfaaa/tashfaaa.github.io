@@ -73,6 +73,7 @@ Orange light on (optimal light!) alongside the three pink LEDs turning on in suc
 
 ![3 pink on](https://tashfaaa.github.io/assets/img/fin3.jpg)
 
+Tada :D
 ![gif of the working project](https://tashfaaa.github.io/assets/img/finalest.gif)
 
 ## 3 tips for my past self:
