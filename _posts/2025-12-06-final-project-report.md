@@ -8,9 +8,11 @@ author: Tashfa Zafar
 
 # Tashfa's Reading Buddy Tote!
 
-As an avid reader who doesn't get a lot of time to read for myself at Williams, I wanted to create something that made reading feel a little more fun, cozy, and trackable—especially for moments on the go. The idea was to turn one of my many tote bags into a playful, interactive reading companion that gently encourages consistent reading. By giving visual feedback on reading progress and ambient lighting, the tote becomes both a practical tool and a personalized creative item. 
+As an avid reader who doesn't get a lot of time to read for myself at Williams, I wanted to create something that made reading feel a little more fun, cozy, and trackable—especially for moments on the go. The idea was to turn one of my many tote bags into a playful, interactive reading companion that gently encourages consistent reading. By giving visual feedback on reading progress and ambient lighting, the tote becomes both a practical tool and a personalized creative item, with decorative embroidered books that double as insulation for some of my traces, and also some embroidered text:
 
-![tote](https://tashfaaa.github.io/floor.jpg)
+![tote](https://tashfaaa.github.io/assets/img/floor.jpg)
+
+![embroidery](https://tashfaaa.github.io/assets/img/read.jpg)
 
 Here's a comprehensive technical explanation of the project:
 
