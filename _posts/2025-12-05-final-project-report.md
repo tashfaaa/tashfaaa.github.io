@@ -30,7 +30,7 @@ Here's a comprehensive technical explanation of the project:
 **OTHER LEDs** - milestone indicators for a reading session (time can be changed according to one's reading goals):
 - 1st LED - turns on 1s into reading, stays on
 - 2nd LED - turns on 5s into reading, stays on
-- 3rd LED - turns on 10s into reading, all three milestone LEDs blink briefly (for 2s thrice to celebrate milestone completion, then timer resets, starting the cycle again
+- 3rd LED - turns on 10s into reading, all three milestone LEDs blink briefly (for 0.2s thrice to celebrate milestone completion, then timer resets, starting the cycle again
 
 ## Comprehensive list of materials I used:
 - 1 LilyPad Arduino, including on-board RGB LED
