@@ -18,7 +18,7 @@ Here's a comprehensive technical explanation of the project:
 
 ### Inputs:
 - Light Sensor (analog) - measures ambient light in the tote’s environment.
-- Switch (digital) - starts/stops official reading session.
+- Switch (digital) - starts official reading session.
 
 ### Outputs:
 
