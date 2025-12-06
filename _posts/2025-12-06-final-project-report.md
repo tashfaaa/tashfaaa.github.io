@@ -6,7 +6,11 @@ comments: true
 author: Tashfa Zafar
 ---
 
-Project title, description, motivation
+# Tashfa's Reading Buddy Tote!
+
+As an avid reader who doesn't get a lot of time to read for myself at Williams, I wanted to create something that made reading feel a little more fun, cozy, and trackable—especially for moments on the go. The idea was to turn one of my many tote bags into a playful, interactive reading companion that gently encourages consistent reading. By giving visual feedback on reading progress and ambient lighting, the tote becomes both a practical tool and a personalized creative item. 
+
+![tote](https://tashfaaa.github.io/floor.jpg)
 
 Here's a comprehensive technical explanation of the project:
 
@@ -52,4 +56,4 @@ Photo of at least 3 states of your working project (or video or gif) --> show wh
 ## 3 tips for my past self:
 Tip 1: Plan the circuit and the embellishments in conjunction! I sewed all my componenets and then came up with the decorative emboridery later which makes the two seem a bit disconnected. I think it would have been fun to experiment with incorporating the LEDs into my embroidered text directly for example.
 Tip 2: Use shorter pieces of conductive thread!! It's truly so frustrating otherwise, with the thread frequently getting irreversibly tangled up or even breaking at the most inconvenient moments.
-Tip 3: 
+Tip 3: Do not neglect insulation! Initially I thought I could get away with minimum insulation, but at one point, two of my LEDs turned on simultaneously because their traces were accidently coming into contact with each other which was not supposed to happen at all at any point. Testing my project repeatedly and identifying such issues prompted me to insulate more of my traces and make the tote more functional.
