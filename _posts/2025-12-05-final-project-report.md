@@ -56,7 +56,7 @@ With the first LED in the series turned on:
 ![alligator prototype photo](https://tashfaaa.github.io/assets/img/FinAlProto.jpg)
 
 
-With the first two sects of LEDs in the series turned on:
+With the first two sets of LEDs in the series turned on:
 ![board prototype](https://tashfaaa.github.io/assets/img/FinBoard.jpg)
 
 ## It works!
