@@ -17,6 +17,7 @@ As an avid reader who doesn't get a lot of time to read for myself at Williams, 
 Here's a comprehensive technical explanation of the project:
 
 ### Inputs:
+
 - Light Sensor (analog) - measures ambient light in the tote’s environment.
 - Switch (digital) - starts official reading session.
 
@@ -44,13 +45,11 @@ Here's a comprehensive technical explanation of the project:
 - Small pieces of felt for insulation (left over from plushy project)
 
 ## Revised Paper Prototype
-
 After getting feedback on my original circuit, I made some edits, e.g. giving the switch it's own pin to make it possible to read whether it's on or off and shape LED behaviors accordingly.
 
 ![updated paper prototype](https://tashfaaa.github.io/assets/img/finalestpaperprototype.png)
 
 ## Alligator Prototypes
-
 Here's my working alligator prototypes depicting different stages of the program.
 
 With the first LED in the series turned on:
@@ -62,7 +61,7 @@ With the first two sects of LEDs in the series turned on:
 
 ## It works!
 
-Purple light when there isn't sufficient light/with the ligth sensor covered by a book:
+Purple light when there isn't sufficient light/with the light sensor covered by a book:
 
 ![purple](https://tashfaaa.github.io/assets/img/purp.jpg)
 
