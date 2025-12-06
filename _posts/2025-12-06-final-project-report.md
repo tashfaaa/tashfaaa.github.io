@@ -47,9 +47,12 @@ Switch (digital) - starts/stops official reading session.
 Screenshot of your revised paper prototype of your project
 ![updated paper prototype](https://tashfaaa.github.io/assets/img/finalestpaperprototype.png)
 
-## Alligator Prototype
-1 Photo of your alligator prototype working
-![alligator prototype photo](https://tashfaaa.github.io/assets/img/circuit.png)
+## Alligator Prototypes
+
+![alligator prototype photo](https://tashfaaa.github.io/assets/img/FinAlProto.jpg)
+
+
+![alligator prototype photo](https://tashfaaa.github.io/assets/img/FinBoard.jpg)
 
 ## It works!
 Photo of at least 3 states of your working project (or video or gif) --> show what it looks like when it works
