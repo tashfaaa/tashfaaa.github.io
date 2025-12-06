@@ -31,7 +31,7 @@ Switch (digital) - starts/stops official reading session.
 - 2nd LED - turns on 5s into reading, stays on
 - 3rd LED - turns on 10s into reading, all three milestone LEDs blink briefly (for 2s thrice to celebrate milestone completion, then timer resets, starting the cycle again
 
-## Comprehensive materials list
+## Comprehensive list of materials I used:
 - 1 LilyPad Arduino, including on-board RGB LED
 - 1 LilyPad Light Sensor
 - 3 Pink LEDs
@@ -53,7 +53,7 @@ Screenshot of your revised paper prototype of your project
 
 ## It works!
 Photo of at least 3 states of your working project (or video or gif) --> show what it looks like when it works
-![maybe a gif of the working project](https://tashfaaa.github.io/assets/img/circuit.png)
+![gif of the working project](https://tashfaaa.github.io/assets/img/finalest.gif)
 
 ## 3 tips for my past self:
 Tip 1: Plan the circuit and the embellishments in conjunction! I sewed all my componenets and then came up with the decorative emboridery later which makes the two seem a bit disconnected. I think it would have been fun to experiment with incorporating the LEDs into my embroidered text directly for example.
