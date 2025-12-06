@@ -51,9 +51,13 @@ After getting feedback on my original circuit, I made some edits, e.g. giving th
 
 ## Alligator Prototypes
 
+Here's my working alligator prototypes depicting different stages of the program.
+
+With the first LED in the series turned on:
 ![alligator prototype photo](https://tashfaaa.github.io/assets/img/FinAlProto.jpg)
 
 
+With the first two sects of LEDs in the series turned on:
 ![board prototype](https://tashfaaa.github.io/assets/img/FinBoard.jpg)
 
 ## It works!
