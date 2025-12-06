@@ -73,10 +73,13 @@ Orange light on (optimal light!) alongside the three pink LEDs turning on in suc
 
 ![3 pink on](https://tashfaaa.github.io/assets/img/fin3.jpg)
 
-Tada :D
+A GIF :D
 ![gif of the working project](https://tashfaaa.github.io/assets/img/finalest.gif)
 
 ## 3 tips for my past self:
-Tip 1: Plan the circuit and the embellishments in conjunction! I sewed all my componenets and then came up with the decorative emboridery later which makes the two seem a bit disconnected. I think it would have been fun to experiment with incorporating the LEDs into my embroidered text directly for example.
-Tip 2: Use shorter pieces of conductive thread!! It's truly so frustrating otherwise, with the thread frequently getting irreversibly tangled up or even breaking at the most inconvenient moments.
-Tip 3: Do not neglect insulation! Initially I thought I could get away with minimum insulation, but at one point, two of my LEDs turned on simultaneously because their traces were accidently coming into contact with each other which was not supposed to happen at all at any point. Testing my project repeatedly and identifying such issues prompted me to insulate more of my traces and make the tote more functional.
+
+**Tip 1**: Plan the circuit and the embellishments in conjunction! I sewed all my componenets and then came up with the decorative emboridery later which makes the two seem a bit disconnected. I think it would have been fun to experiment with incorporating the LEDs into my embroidered text directly for example.
+
+**Tip 2**: Use shorter pieces of conductive thread!! It's truly so frustrating otherwise, with the thread frequently getting irreversibly tangled up or even breaking at the most inconvenient moments.
+
+**Tip 3**: Do not neglect insulation! Initially I thought I could get away with minimum insulation, but at one point, two of my LEDs turned on simultaneously because their traces were accidently coming into contact with each other which was not supposed to happen at all at any point. Testing my project repeatedly and identifying such issues prompted me to insulate more of my traces and make the tote more functional.
