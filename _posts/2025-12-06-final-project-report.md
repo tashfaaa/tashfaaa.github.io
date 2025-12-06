@@ -53,6 +53,7 @@ Screenshot of your revised paper prototype of your project
 
 ## It works!
 Photo of at least 3 states of your working project (or video or gif) --> show what it looks like when it works
+
 ![gif of the working project](https://tashfaaa.github.io/assets/img/finalest.gif)
 
 ## 3 tips for my past self:
