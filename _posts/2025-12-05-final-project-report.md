@@ -40,8 +40,8 @@ Switch (digital) - starts/stops official reading session.
 - Sewing thread
 - Conductive thread
 - Scissors
-- Emboridery floss (multiple random colors used)
-- Small pieces of felt (left over from plushy project)
+- Embroidery floss (multiple random colors used)
+- Small pieces of felt for insulation (left over from plushy project)
 
 ## Revised Paper Prototype
 Screenshot of your revised paper prototype of your project
@@ -52,10 +52,18 @@ Screenshot of your revised paper prototype of your project
 ![alligator prototype photo](https://tashfaaa.github.io/assets/img/FinAlProto.jpg)
 
 
-![alligator prototype photo](https://tashfaaa.github.io/assets/img/FinBoard.jpg)
+![board prototype](https://tashfaaa.github.io/assets/img/FinBoard.jpg)
 
 ## It works!
 Photo of at least 3 states of your working project (or video or gif) --> show what it looks like when it works
+
+![purple](https://tashfaaa.github.io/assets/img/purp.jpg)
+
+![1 pink on](https://tashfaaa.github.io/assets/img/fin1.jpg)
+
+![2 pink on](https://tashfaaa.github.io/assets/img/fin2.jpg)
+
+![3 pink on](https://tashfaaa.github.io/assets/img/fin3.jpg)
 
 ![gif of the working project](https://tashfaaa.github.io/assets/img/finalest.gif)
 
